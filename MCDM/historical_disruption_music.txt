@@ -1,91 +1,474 @@
-ABSTRACT
+## ABSTRACT
 
-The current digital disruption to music distribution, while extensive, is not without historical precedent. The introduction of the phonograph, radio broadcasting, and a combination of several recording and distribution technologies in the 1940s all caused disruptions to the music industry. These periods were followed by long phases of consolidation. This paper attempts to examine previous technological changes in the business of recorded music and identify several patterns that they have induced.
+The current digital disruption to music distribution, while extensive,
+is not without historical precedent. The introduction of the
+phonograph, radio broadcasting, and a combination of several recording
+and distribution technologies in the 1940s all caused disruptions to
+the music industry. These periods were followed by long phases of
+consolidation. This paper attempts to examine previous technological
+changes in the business of recorded music and identify several
+patterns that they have induced.
 
-Introduction
+## Introduction
 
-The past decade has seen the business of recorded music in constant decline. In 2009, recorded music revenues in the US and EU declined to  42% of their high water mark in 2000, representing a net loss of $20.2 billion (Mulligan 2010:  4). The primary forces behind this shift have been technological. With the steady advance of digital files as a listening format and the Internet as a medium for distribution, the dominance of the CD as the primary product of the industry and the business assumptions built around its limitations as a listening format have been challenged. Digital distributors offering track-by-track purchasing and consumers’ ability to encode and reproduce high quality digital copies of music have undercut the distribution and sales hierarchies from the turn of the millennium. But disruption of the distribution chain by new technology is hardly unique to the digital era.
+The past decade has seen the business of recorded music in constant
+decline. In 2009, recorded music revenues in the US and EU declined to
+42% of their high water mark in 2000, representing a net loss of $20.2
+billion (Mulligan 2010: 4). The primary forces behind this shift have
+been technological. With the steady advance of digital files as a
+listening format and the Internet as a medium for distribution, the
+dominance of the CD as the primary product of the industry and the
+business assumptions built around its limitations as a listening
+format have been challenged. Digital distributors offering
+track-by-track purchasing and consumers’ ability to encode and
+reproduce high quality digital copies of music have undercut the
+distribution and sales hierarchies from the turn of the
+millennium. But disruption of the distribution chain by new technology
+is hardly unique to the digital era.
 
-There were several historical phases in the twentieth century during which new communications technologies undermined existent distribution structures in the music business: the emergence of the phonograph in the early 1900s; the shift to radio as the primary listening format in the 1930s;  the the rise of independent record labels during the rock ‘n roll era; a long period of business consolidation culminating at the peak of CD sales; and the current disruption brought on small digital file formats that are readily distributed via the Internet.
+There were several historical phases in the twentieth century during
+which new communications technologies undermined existent distribution
+structures in the music business: the emergence of the phonograph in
+the early 1900s; the shift to radio as the primary listening format in
+the 1930s; the the rise of independent record labels during the rock
+‘n roll era; a long period of business consolidation culminating at
+the peak of CD sales; and the current disruption brought on small
+digital file formats that are readily distributed via the Internet.
 
-In these cases we see an emergent pattern. First, new technologies combine with social and legal factors to produce markets with diverse product offerings and multiple outlets for  distribution. When these technologies are nascent, they are largely ignored by incumbent interests as they are outside of the purview of their already profitable business models. As the technology matures, the disruption to existent business deepens and upstarts and incumbents begin to combine to form large conglomerates built around their ability to control distribution of the new mediums. Consolidation continues, building a new set of incumbents which then repeat the cycle, suppressing new mediums via intellectual property law until the right combination of social and technological factors lead to a new disruption.
+In these cases we see an emergent pattern. First, new technologies
+combine with social and legal factors to produce markets with diverse
+product offerings and multiple outlets for distribution. When these
+technologies are nascent, they are largely ignored by incumbent
+interests as they are outside of the purview of their already
+profitable business models. As the technology matures, the disruption
+to existent business deepens and upstarts and incumbents begin to
+combine to form large conglomerates built around their ability to
+control distribution of the new mediums. Consolidation continues,
+building a new set of incumbents which then repeat the cycle,
+suppressing new mediums via intellectual property law until the right
+combination of social and technological factors lead to a new
+disruption.
 
-This paper seeks to look at the previously identified technological paradigm shifts in an attempt to find the common threads amongst them. I also consider the most recent period of consolidation in detail. An understanding of  these historical examples will provide a context within which we can examine the current disruptions and look to the future.
+This paper seeks to look at the previously identified technological
+paradigm shifts in an attempt to find the common threads amongst
+them. I also consider the most recent period of consolidation in
+detail. An understanding of these historical examples will provide a
+context within which we can examine the current disruptions and look
+to the future.
 
-The Emergence of a Recorded Music Industry (1900-1920)
+### The Emergence of a Recorded Music Industry (1900-1920)
 
-Although invented in the 1870s and first brought to market prior to 1890, recording technologies had little impact on the mass distribution of music until around 1901. In the late 1800s, the music business was built around the sale of printed sheet music which was generally played at home and shared socially on the piano. The extent and reach of the publishing business should be noted; at its peak, sheet music sales reached 3.5 million copies for a popular vaudeville song (Sanjek 1996: 34). For perspective, that’s roughly on par with the album sales of today’s best selling artists. Since a popular song could sell millions of copies, its publishers had little incentive to invest in unproven recording technology (Tschmuck 2006: 2). During this initial period, phonographs (wax cylinders) and gramophones (disc based records) were marketed and sold by the  Edison Co. and Columbia Records (founded in part by Edison rival Alexander Grahm Bell) primarily as office appliances for dictation. Both mediums were fragile and offered poor fidelity.
+Although invented in the 1870s and first brought to market prior to
+1890, recording technologies had little impact on the mass
+distribution of music until around 1901. In the late 1800s, the music
+business was built around the sale of printed sheet music which was
+generally played at home and shared socially on the piano. The extent
+and reach of the publishing business should be noted; at its peak,
+sheet music sales reached 3.5 million copies for a popular vaudeville
+song (Sanjek 1996: 34). For perspective, that’s roughly on par with
+the album sales of today’s best selling artists. Since a popular song
+could sell millions of copies, its publishers had little incentive to
+invest in unproven recording technology (Tschmuck 2006: 2). During
+this initial period, phonographs (wax cylinders) and gramophones (disc
+based records) were marketed and sold by the Edison Co. and Columbia
+Records (founded in part by Edison rival Alexander Grahm Bell)
+primarily as office appliances for dictation. Both mediums were
+fragile and offered poor fidelity.
 
-In 1889 the new technology was used to build coin operated machines for amusement, which in turn brought recorded music into public spaces (Winston 1998: 62-63). This was first popular use of musical recording technology. Rights to use recorded material, however, had to be negotiated with the publishers on a case-by-case basis who did everything in their power to maintain control (Sanjek 1991: 4-8 ). The wide dispersion of a single recording the home market was still all but impossible, due to a technical limitation of the medium:
+In 1889 the new technology was used to build coin operated machines
+for amusement, which in turn brought recorded music into public spaces
+(Winston 1998: 62-63). This was first popular use of musical recording
+technology. Rights to use recorded material, however, had to be
+negotiated with the publishers on a case-by-case basis who did
+everything in their power to maintain control (Sanjek 1991: 4-8 ). The
+wide dispersion of a single recording the home market was still all
+but impossible, due to a technical limitation of the medium:
 
-To make ten copies of a recording, the performer wither had to perform the song ten times, or ten recorders had to be recording simultaneously (or some combination of the two). After recording the performance, the recorded cylinders were replaced with new cylinders and the song was performed again. If a mistake were made during the performance, all ten of the recording devices were stopped, the cylinders discarded and replaced, and the process began anew. (Alexander 1994:  116)
+To make ten copies of a recording, the performer wither had to perform
+the song ten times, or ten recorders had to be recording
+simultaneously (or some combination of the two). After recording the
+performance, the recorded cylinders were replaced with new cylinders
+and the song was performed again. If a mistake were made during the
+performance, all ten of the recording devices were stopped, the
+cylinders discarded and replaced, and the process began
+anew. (Alexander 1994: 116)
 
-By 1901, however, a metal stamper process was adopted which enabled the first true mass production of recorded music. With production hurdles overcome, the stage was set for the widespread consumption of the medium. Mass production meant that for the first time a large number of people could listen to the exact same performance of a song. The first million selling record, a performance from Leoncavallo’s opera “Pagliacci” by italian tenor Enrico Caruso, was recorded shortly thereafter, in 1902 (Winston 1998: 63). While it took until 1907 to reach that level of sales, the market clearly justified the value of recorded music as a shared cultural experience.
+By 1901, however, a metal stamper process was adopted which enabled
+the first true mass production of recorded music. With production
+hurdles overcome, the stage was set for the widespread consumption of
+the medium. Mass production meant that for the first time a large
+number of people could listen to the exact same performance of a
+song. The first million selling record, a performance from
+Leoncavallo’s opera “Pagliacci” by italian tenor Enrico Caruso, was
+recorded shortly thereafter, in 1902 (Winston 1998: 63). While it took
+until 1907 to reach that level of sales, the market clearly justified
+the value of recorded music as a shared cultural experience.
 
-During the early years, there were two competing standards for sound recordings; the familiar disc-based gramophone was developed and sold by Victor Talking Machine, and the wax cylinder, developed by the Edison Co. Columbia, the third major producer of sound recordings in this era, had claims to patents in both formats and because of such, produced them both. Maintaining a foothold in each market was expensive, however, and Columbia mounted losses until it was taken over by in 1908 by its profitable British subsidiary. The disc-based gramophone format had already dominated in Europe, so the new ownership put a halt to its production of wax cylinders. Edison soon would follow, making the gramophone the de facto phonographic standard in the United States (Tschmuck 2006: 24-25).
+During the early years, there were two competing standards for sound
+recordings; the familiar disc-based gramophone was developed and sold
+by Victor Talking Machine, and the wax cylinder, developed by the
+Edison Co. Columbia, the third major producer of sound recordings in
+this era, had claims to patents in both formats and because of such,
+produced them both. Maintaining a foothold in each market was
+expensive, however, and Columbia mounted losses until it was taken
+over by in 1908 by its profitable British subsidiary. The disc-based
+gramophone format had already dominated in Europe, so the new
+ownership put a halt to its production of wax cylinders. Edison soon
+would follow, making the gramophone the de facto phonographic standard
+in the United States (Tschmuck 2006: 24-25).
 
-Three key factors helped lead to the first big boom in recorded music: the adoption of a standard for sound recordings, the expiration of some key phonographic technology patents in 1914, and a 1909 copyright law that established compulsory licensing. During this boom, the number of companies selling recorded music went from three to seventy-three between 1913 and 1916. By 1919, there were 166 record companies in the United States (Tschmuck 1998: 26). The role of the 1909 compulsory license compromise cannot be understated. The revised Copyright Act was a reaction to the “giant music monopoly” of the Music Publishers Association which had cut a deal with giving a single producer the right to produce piano rolls of all its members publishers’ works, some eighty-seven in all. Congressional hearings led to a compulsory license mandate which allowed anyone to produce a mechanical copy of the music by paying the publishers a flat-rate fee of 2 cents a copy (Sanjek 1996: 22-23). The new law extended to phonographic recordings, and record companies were able to record and distribute performances of popular songs. With artists able to record hit material, the market for the phonograph became vastly more valuable.
+Three key factors helped lead to the first big boom in recorded music:
+the adoption of a standard for sound recordings, the expiration of
+some key phonographic technology patents in 1914, and a 1909 copyright
+law that established compulsory licensing. During this boom, the
+number of companies selling recorded music went from three to
+seventy-three between 1913 and 1916. By 1919, there were 166 record
+companies in the United States (Tschmuck 1998: 26). The role of the
+1909 compulsory license compromise cannot be understated. The revised
+Copyright Act was a reaction to the “giant music monopoly” of the
+Music Publishers Association which had cut a deal with giving a single
+producer the right to produce piano rolls of all its members
+publishers’ works, some eighty-seven in all. Congressional hearings
+led to a compulsory license mandate which allowed anyone to produce a
+mechanical copy of the music by paying the publishers a flat-rate fee
+of 2 cents a copy (Sanjek 1996: 22-23). The new law extended to
+phonographic recordings, and record companies were able to record and
+distribute performances of popular songs. With artists able to record
+hit material, the market for the phonograph became vastly more
+valuable.
 
-While the new copyright law allowed provided the means to record hit vaudeville and Broadway songs, it was ambiguous about the public performance of these recordings. The full details of the legal wrangling that the industry underwent during this period (Sanjek 1996: 32-44) are beyond the scope of this paper but worth noting; they’re a textbook example of the “law” of suppression. The incumbent interests, in this case the music publishers, used technological, legal, and social means to suppress the new technologies that had radical potential (Winston 1996: 11). In this as in almost every other case, the established music industry has initially ignored the development of disruptive technologies, using copyright at some later point in an attempt at suppression.
+While the new copyright law allowed provided the means to record hit
+vaudeville and Broadway songs, it was ambiguous about the public
+performance of these recordings. The full details of the legal
+wrangling that the industry underwent during this period (Sanjek 1996:
+32-44) are beyond the scope of this paper but worth noting; they’re a
+textbook example of the “law” of suppression. The incumbent interests,
+in this case the music publishers, used technological, legal, and
+social means to suppress the new technologies that had radical
+potential (Winston 1996: 11). In this as in almost every other case,
+the established music industry has initially ignored the development
+of disruptive technologies, using copyright at some later point in an
+attempt at suppression.
 
-By 1921, US record sales reached a peak of $106 million. This remained the most profitable year for the recording industry until 1945 (Tschmuck 2006: 41).
+By 1921, US record sales reached a peak of $106 million. This remained
+the most profitable year for the recording industry until 1945
+(Tschmuck 2006: 41).
 
-Big Radio (1920-1945)
+### Big Radio (1920-1945)
 
-The boom years of the phonograph and the influx of new players in the market led to a period of overproduction between 1921 and 1925.  A glut of inventory would, in part, serve to hamstring the the profitability industry during the first part of the 1920s (Tschmuck 2006: 44). However, technological innovation would prove a greater threat to the sale of recorded music than overproduction. The new medium was radio, and it quickly it became a big business and the primary entertainment medium, overshadowing the business of recorded music for decades.
+The boom years of the phonograph and the influx of new players in the
+market led to a period of overproduction between 1921 and 1925.  A
+glut of inventory would, in part, serve to hamstring the the
+profitability industry during the first part of the 1920s (Tschmuck
+2006: 44). However, technological innovation would prove a greater
+threat to the sale of recorded music than overproduction. The new
+medium was radio, and it quickly it became a big business and the
+primary entertainment medium, overshadowing the business of recorded
+music for decades.
 
-Wireless telegraphy had been in commercial development in the UK since the late 1800s with the first transatlantic wireless communication being broadcast by Guglielmo Marconi in 1901.  It’s primary use was for naval communication, and after securing a British patent Marconi went into business providing maritime telegraphy. Marconi pooled patents with Telefunken in 1912 and became the main provider of wireless communication in the United States (Tschmuck 2006: 45). The new technology also took hold among US hobbyists who ignored the British patents and built their own crystal sets from widely available plans. When the tragedy of the Titanic was picked up over a tense 72 hours by a young Marconi operator named David Sarnoff, the power of radio began to capture the imagination of the country at large. Sarnoff would later play a much greater role in the development of radio as for entertainment, but even his early days at Marconi he envisioned radio as a “music box,” a vision reportedly derided as frivolous by his superiors.
+Wireless telegraphy had been in commercial development in the UK since
+the late 1800s with the first transatlantic wireless communication
+being broadcast by Guglielmo Marconi in 1901.  It’s primary use was
+for naval communication, and after securing a British patent Marconi
+went into business providing maritime telegraphy. Marconi pooled
+patents with Telefunken in 1912 and became the main provider of
+wireless communication in the United States (Tschmuck 2006: 45). The
+new technology also took hold among US hobbyists who ignored the
+British patents and built their own crystal sets from widely available
+plans. When the tragedy of the Titanic was picked up over a tense 72
+hours by a young Marconi operator named David Sarnoff, the power of
+radio began to capture the imagination of the country at
+large. Sarnoff would later play a much greater role in the development
+of radio as for entertainment, but even his early days at Marconi he
+envisioned radio as a “music box,” a vision reportedly derided as
+frivolous by his superiors.
 
-Because of its vital role in naval communication, the military took control of domestic radio at the outbreak of the first world war (Winston 1996: 70-75). This led to a blackout broadcast period lasting several years, after which the industry would be entirely reconfigured. The technology itself continued to develop during the war years and the value of radio as a broadcast medium started to become clear. Immediately after war, the US government expropriated the patent rights from the owners of the British Marconi Company and gave production rights to General Electric in the United States, citing prior work by Nicolai Tesla. GE then formed the Radio Corporation of America in 1919 which would sell and operate radio equipment. They acquired the dissolved American Marconi and put David Sarnoff  landing in an upper management position. A series of quick deals and patent exchanges ensued bringing Westinghouse and AT&T into the new holding company  (Tschmuck 2006: 45-46). Radio had evolved from a hobby and maritime technology into a deep pocketed business before public transmission resumed after the war. When licensed transmissions finally resumed, there were affordable mass market radios, and stations were looking to its value as an entertainment medium, experimenting with pre-recorded music. In 1921, thirty-one stations were granted licenses by the Department of Commerce. By 1922, 576 broadcast licenses were granted and there were some half a million sets in use (Sanjek 1996: 77). Many of these stations were playing pre-recorded versions of popular songs from phonographs.
+Because of its vital role in naval communication, the military took
+control of domestic radio at the outbreak of the first world war
+(Winston 1996: 70-75). This led to a blackout broadcast period lasting
+several years, after which the industry would be entirely
+reconfigured. The technology itself continued to develop during the
+war years and the value of radio as a broadcast medium started to
+become clear. Immediately after war, the US government expropriated
+the patent rights from the owners of the British Marconi Company and
+gave production rights to General Electric in the United States,
+citing prior work by Nicolai Tesla. GE then formed the Radio
+Corporation of America in 1919 which would sell and operate radio
+equipment. They acquired the dissolved American Marconi and put David
+Sarnoff landing in an upper management position. A series of quick
+deals and patent exchanges ensued bringing Westinghouse and AT&T into
+the new holding company (Tschmuck 2006: 45-46). Radio had evolved from
+a hobby and maritime technology into a deep pocketed business before
+public transmission resumed after the war. When licensed transmissions
+finally resumed, there were affordable mass market radios, and
+stations were looking to its value as an entertainment medium,
+experimenting with pre-recorded music. In 1921, thirty-one stations
+were granted licenses by the Department of Commerce. By 1922, 576
+broadcast licenses were granted and there were some half a million
+sets in use (Sanjek 1996: 77). Many of these stations were playing
+pre-recorded versions of popular songs from phonographs.
 
-This on air performance of recorded music was seen as a threat by ASCAP and the Tin Pan Alley publishing interests and they began to take legal action against radio. ASCAP and the publishers formed the two incumbent rights holding entities from the age of sheet music and as such, had the support of existent intellectual property law behind their claims on the performance and reproduction usage of music. Although recording media had been around for a few decades, the law still had no provision for music broadcasting of any sort. Without the legal right to play most music, radio stations to broadcast whatever talent, musical or otherwise, that they could get for cheap or free. Since AT&T maintained an exclusive commercial exploitation right over its transmitters and long lines (used by major broadcasters), broadcasters claimed that they weren’t able to raise money to pay ASCAP for performance licenses. However, radio was producing hit songs by sponsored acts like the Eveready Music Makers and May and Tag the Washing Machine Twins who brought indirect advertising revenue into the stations (Sanjek 1996: 80).
+This on air performance of recorded music was seen as a threat by
+ASCAP and the Tin Pan Alley publishing interests and they began to
+take legal action against radio. ASCAP and the publishers formed the
+two incumbent rights holding entities from the age of sheet music and
+as such, had the support of existent intellectual property law behind
+their claims on the performance and reproduction usage of
+music. Although recording media had been around for a few decades, the
+law still had no provision for music broadcasting of any sort. Without
+the legal right to play most music, radio stations to broadcast
+whatever talent, musical or otherwise, that they could get for cheap
+or free. Since AT&T maintained an exclusive commercial exploitation
+right over its transmitters and long lines (used by major
+broadcasters), broadcasters claimed that they weren’t able to raise
+money to pay ASCAP for performance licenses. However, radio was
+producing hit songs by sponsored acts like the Eveready Music Makers
+and May and Tag the Washing Machine Twins who brought indirect
+advertising revenue into the stations (Sanjek 1996: 80).
 
-The licensing of popular music to radio remained spotty until the matter was settled in court, in ASCAPs’ favor, in 1925. During this period between 1921 and 1925, amidst the disruption by radio, overproduction by an overconfident record industry, and the mess of licensing which made less top tier talent available for promotion over the airwaves, phonograph sales declined by 15% a year on average (Tschmuck 2006: 42).
+The licensing of popular music to radio remained spotty until the
+matter was settled in court, in ASCAPs’ favor, in 1925. During this
+period between 1921 and 1925, amidst the disruption by radio,
+overproduction by an overconfident record industry, and the mess of
+licensing which made less top tier talent available for promotion over
+the airwaves, phonograph sales declined by 15% a year on average
+(Tschmuck 2006: 42).
 
-The late twenties saw the radio industry, already largely controlled by RCA, consolidate further. A legal settlement in 1925 had AT&T remove itself from the broadcasting industry and open up its equipment to commercial broadcasting. As a result, RCA, GE and Westinghouse formed the National Broadcasting Company which who agreed to lease AT&Ts long lines for a minimum fee of one million dollars a year (Sanjek 1996: 85). Using AT&Ts network, stations were built which could share programing and provide a collective listening experience across great geographical distances. In 1928, 69 NBC affiliates could be heard in 80% of the 9.6 million American homes with receivers.  This generated massive advertising revenues, and NBC was able to produce and license programming out of the reach of the recorded music business. Pre-recorded radio content became the exception in an era of big studio bands and orchestras and top-tier talent on the radio networks. Having less access to radio for promotion set the recording industry into a spiral; it reached its nadir in 1933, when the depth of the depression made the economics of radio undeniable. That year the  phonograph industry had only $6 million dollars in sales, just a fraction of the $106 million it had seen in 1921 (Tschmuck 2006: 41).
+The late twenties saw the radio industry, already largely controlled
+by RCA, consolidate further. A legal settlement in 1925 had AT&T
+remove itself from the broadcasting industry and open up its equipment
+to commercial broadcasting. As a result, RCA, GE and Westinghouse
+formed the National Broadcasting Company which who agreed to lease
+AT&Ts long lines for a minimum fee of one million dollars a year
+(Sanjek 1996: 85). Using AT&Ts network, stations were built which
+could share programing and provide a collective listening experience
+across great geographical distances. In 1928, 69 NBC affiliates could
+be heard in 80% of the 9.6 million American homes with receivers.
+This generated massive advertising revenues, and NBC was able to
+produce and license programming out of the reach of the recorded music
+business. Pre-recorded radio content became the exception in an era of
+big studio bands and orchestras and top-tier talent on the radio
+networks. Having less access to radio for promotion set the recording
+industry into a spiral; it reached its nadir in 1933, when the depth
+of the depression made the economics of radio undeniable. That year
+the phonograph industry had only $6 million dollars in sales, just a
+fraction of the $106 million it had seen in 1921 (Tschmuck 2006: 41).
 
-Radio would continue to be the dominant medium for music for some time through the 1930′s and 1940′s until the right combination of technological, social, and legal factors would collude to return recorded music to viability.
+Radio would continue to be the dominant medium for music for some time
+through the 1930′s and 1940′s until the right combination of
+technological, social, and legal factors would collude to return
+recorded music to viability.
 
-The Resurgence of Recorded Music (1950-1969)
+### The Resurgence of Recorded Music (1950-1969)
 
-While music sales steadily regained ground through the 1930s and 1940s, they still remained below their 1921 peak. During this period the major broadcasting entities used their massive advertising revenues to gobble up the major producers of phonographs, providing a vertical marketing and distribution chain. CBS bought Columbia and RCA bought Victor, leaving two major The initial order was turned on its head: recorded music sales were driven by popular music featured in films and in live performances as opposed to radio playing recorded versions of hit songs. Until several technological, social, and legal developments changed the industry in the late 1940s, the sale of records was an ancillary part of the music business.
+While music sales steadily regained ground through the 1930s and
+1940s, they still remained below their 1921 peak. During this period
+the major broadcasting entities used their massive advertising
+revenues to gobble up the major producers of phonographs, providing a
+vertical marketing and distribution chain. CBS bought Columbia and RCA
+bought Victor, leaving two major The initial order was turned on its
+head: recorded music sales were driven by popular music featured in
+films and in live performances as opposed to radio playing recorded
+versions of hit songs. Until several technological, social, and legal
+developments changed the industry in the late 1940s, the sale of
+records was an ancillary part of the music business.
 
-In the beginning of the 1940s, the technology of recorded music was fundamentally unchanged from its inception. Records were still made of shellac and played at 78 RPM, providing no more than 4 minutes of music per side. The sound capturing technology was still relatively primitive as well: music was recorded live, and it was a faithful reproduction of a single performance by a musician or set of musicians time-shifted for the home listener. The physical constraints of the medium provided a significant barrier-to-entry into the business as well:
+In the beginning of the 1940s, the technology of recorded music was
+fundamentally unchanged from its inception. Records were still made of
+shellac and played at 78 RPM, providing no more than 4 minutes of
+music per side. The sound capturing technology was still relatively
+primitive as well: music was recorded live, and it was a faithful
+reproduction of a single performance by a musician or set of musicians
+time-shifted for the home listener. The physical constraints of the
+medium provided a significant barrier-to-entry into the business as
+well:
 
-Shellac records were fragile, and their transportation and distribution required a great deal of care. The high costs ensuing from such complicated logistics prevented smaller companies from distributing their own products. Hence, they had to depend on the distribution infrastructure of the majors, who used their market power to keep unwanted market competition at bay (Tschmuck 2006: 92).
+Shellac records were fragile, and their transportation and
+distribution required a great deal of care. The high costs ensuing
+from such complicated logistics prevented smaller companies from
+distributing their own products. Hence, they had to depend on the
+distribution infrastructure of the majors, who used their market power
+to keep unwanted market competition at bay (Tschmuck 2006: 92).
 
-Several technological shifts set the stage for a revolution of the  industry’s established order. First, a shortage of shellac during the second world war led the major producers of records (now consolidated with major broadcasting interests) to develop new materials and formats for recorded music. CBS-Columbia developed a long playing format on 33 1/3 RPM: 12-inch records which could hold 20 minutes of music per side at the same fidelity of 78s; RCA-Victor developed the 45 RPM single, which had improved fidelity but had roughly the same time limitations of the 78 (Tschmuck 2006: 92). Both pressed the new records to vinyl, which was significantly lighter and less apt to break in transport. While the two majors mounted expensive marketing campaigns to establish their in-house formats, they relied on the same underlying technology and were able to coexist in the market. In the period between 1945 and 1950, the number of home record players doubled to 25 million with over half able to play phonographs of all three speeds (Sanjek 1996: 318).
+Several technological shifts set the stage for a revolution of the
+industry’s established order. First, a shortage of shellac during the
+second world war led the major producers of records (now consolidated
+with major broadcasting interests) to develop new materials and
+formats for recorded music. CBS-Columbia developed a long playing
+format on 33 1/3 RPM: 12-inch records which could hold 20 minutes of
+music per side at the same fidelity of 78s; RCA-Victor developed the
+45 RPM single, which had improved fidelity but had roughly the same
+time limitations of the 78 (Tschmuck 2006: 92). Both pressed the new
+records to vinyl, which was significantly lighter and less apt to
+break in transport. While the two majors mounted expensive marketing
+campaigns to establish their in-house formats, they relied on the same
+underlying technology and were able to coexist in the market. In the
+period between 1945 and 1950, the number of home record players
+doubled to 25 million with over half able to play phonographs of all
+three speeds (Sanjek 1996: 318).
 
-The availability of magnetic tape as a recording medium was another factor. Magnetic tape entered the US market after the second world war; the technology was developed in Nazi Germany and appropriated by the victors. Tape was significantly less expensive and more forgiving than the previous production technologies, which had remained basically unchanged since 1890 (Alexander 1994: 7). Magnetic tape would also lead to multi-track recording which provided creative opportunities beyond live performance. The broad availability of tape as a recording medium allowed caused new studios to spring up, and the ease of transport of vinyl records allowed these new labels to forgo the existent distribution infrastructure, with ambitious independent record distributors even driving from city to city selling records out the the trunks of their cars (Dannen 1991:151).
+The availability of magnetic tape as a recording medium was another
+factor. Magnetic tape entered the US market after the second world
+war; the technology was developed in Nazi Germany and appropriated by
+the victors. Tape was significantly less expensive and more forgiving
+than the previous production technologies, which had remained
+basically unchanged since 1890 (Alexander 1994: 7). Magnetic tape
+would also lead to multi-track recording which provided creative
+opportunities beyond live performance. The broad availability of tape
+as a recording medium allowed caused new studios to spring up, and the
+ease of transport of vinyl records allowed these new labels to forgo
+the existent distribution infrastructure, with ambitious independent
+record distributors even driving from city to city selling records out
+the the trunks of their cars (Dannen 1991:151).
 
-FM radio was the last technology that would collude in the disruption, although in this case, it was due to the business opportunity it afforded rather than its technological novelty. When the FCC started allocating broadcasting licenses for FM stations in the mid-forties, the large networks were relatively uninterested in entering the market. They had significant investments in AM transmission and were primarily interested in FM in relation to their development of television networks, in which they were investing massively.  Because of this, local radio stations were able to pick up FM broadcasting licenses fairly easily. The majors began to scale back their expensive live radio shows to invest in television, and the local stations, who could never afford live shows to begin with, played pre-recorded music from the onset, and the broadcast industry began to rely on pre-recorded music (Tschmuck 2006: 102). In the case of the local FM stations, they often played the records of local independent labels, who recognized the promotional potential afforded by radio play and provided them for free.
+FM radio was the last technology that would collude in the disruption,
+although in this case, it was due to the business opportunity it
+afforded rather than its technological novelty. When the FCC started
+allocating broadcasting licenses for FM stations in the mid-forties,
+the large networks were relatively uninterested in entering the
+market. They had significant investments in AM transmission and were
+primarily interested in FM in relation to their development of
+television networks, in which they were investing massively.  Because
+of this, local radio stations were able to pick up FM broadcasting
+licenses fairly easily. The majors began to scale back their expensive
+live radio shows to invest in television, and the local stations, who
+could never afford live shows to begin with, played pre-recorded music
+from the onset, and the broadcast industry began to rely on
+pre-recorded music (Tschmuck 2006: 102). In the case of the local FM
+stations, they often played the records of local independent labels,
+who recognized the promotional potential afforded by radio play and
+provided them for free.
 
-The combination of lowered barriers to entry and new promotion channels radically restructured the music industry. In 1948, the four major record labels–CBS-Columbia, RCA-Victor, Decca, and Capitol Records–released 81% of all top ten hits. By 1959, their share of top ten hits had declined to just 34% (Tschmuck 2006: 208). While the majors had hung onto the studio swing bands that had brought them success in the 1940s, the broadened market provided an opportunity for more adaptive independent labels to innovate culturally; most of the hits of the early R&B and rock and roll were released by independent labels. The recorded music industry exploded, going from a $224 million industry in 1954 to a $603 million industry in 1959 (Tschmuck 2006: 91). This intense growth set the stage for the next phase of consolidation.
+The combination of lowered barriers to entry and new promotion
+channels radically restructured the music industry. In 1948, the four
+major record labels–CBS-Columbia, RCA-Victor, Decca, and Capitol
+Records–released 81% of all top ten hits. By 1959, their share of top
+ten hits had declined to just 34% (Tschmuck 2006: 208). While the
+majors had hung onto the studio swing bands that had brought them
+success in the 1940s, the broadened market provided an opportunity for
+more adaptive independent labels to innovate culturally; most of the
+hits of the early R&B and rock and roll were released by independent
+labels. The recorded music industry exploded, going from a $224
+million industry in 1954 to a $603 million industry in 1959 (Tschmuck
+2006: 91). This intense growth set the stage for the next phase of
+consolidation.
 
-Consolidation and Control (1970-1999)
+### Consolidation and Control (1970-1999)
 
-The success of the 1950s ignited a series of  mergers and a rush of venture capital during the 1960s. Industry growth continued and by the end of the decade, music became a nearly $1.6 billion dollar market in the United States (Tschmuck 2006: 114). This was, however, just the beginning of nearly forty years of industry consolidation. During that time, the disparate hit makers of the 1950s were rolled up and built into giant multimedia interests which exerted control over marketing, promotion, and distribution channels.
+The success of the 1950s ignited a series of mergers and a rush of
+venture capital during the 1960s. Industry growth continued and by the
+end of the decade, music became a nearly $1.6 billion dollar market in
+the United States (Tschmuck 2006: 114). This was, however, just the
+beginning of nearly forty years of industry consolidation. During that
+time, the disparate hit makers of the 1950s were rolled up and built
+into giant multimedia interests which exerted control over marketing,
+promotion, and distribution channels.
 
-The formation of the Universal Music Group provides an illustrative example. Chess Records, ABC, Decca-U. S., Polydor, Phillips, Mercury, MGM and Decca-U. K. were all separate labels in 1960, each with their own distribution channel. In the mid-sixties, Polydor and Phillips merged to become PolyGram Records, which in turn was able to absorb Mercury, MGM, and Decca-U. K. by 1980. Similarly, Motown, Chess and ABC had all merged with Decca U. S. to become MCA Music by 1990 (Tschmuck 2006: 252). In the mid-nineties a merger between these behemoths begat Universal Music Group, a label which held of 37.5% of the entire industry’s market share by November, 2000 (UMG November 5, 2000). In contrast to 1959, when the majors combined for 34% of all top ten hits, September 2000 saw UMG hold half of the top twenty albums (UMG September, 2000).
+The formation of the Universal Music Group provides an illustrative
+example. Chess Records, ABC, Decca-U. S., Polydor, Phillips, Mercury,
+MGM and Decca-U. K. were all separate labels in 1960, each with their
+own distribution channel. In the mid-sixties, Polydor and Phillips
+merged to become PolyGram Records, which in turn was able to absorb
+Mercury, MGM, and Decca-U. K. by 1980. Similarly, Motown, Chess and
+ABC had all merged with Decca U. S. to become MCA Music by 1990
+(Tschmuck 2006: 252). In the mid-nineties a merger between these
+behemoths begat Universal Music Group, a label which held of 37.5% of
+the entire industry’s market share by November, 2000 (UMG November 5,
+2000). In contrast to 1959, when the majors combined for 34% of all
+top ten hits, September 2000 saw UMG hold half of the top twenty
+albums (UMG September, 2000).
 
-As labels became the dominant players in the business, their relationship with radio was reversed. Radio playlists increasingly came under the control of labels, serving as the primary promotional tool for driving sales to new records. During the past fifty years, record label influence at radio has come under scrutiny time and time again, with repeated legal action brought against them over elaborate systems of kickbacks and pay-for-play payola scandals. The frequency of these allegations seems to indicate that this legal action has had little effect (Payola). The independent FM stations of the fifties slowly but surely were bought by larger media companies and segmented into relatively homogenized formats based around specific market demographics, reducing the diversity of music being broadcast (DiCola, Thomson).
+As labels became the dominant players in the business, their
+relationship with radio was reversed. Radio playlists increasingly
+came under the control of labels, serving as the primary promotional
+tool for driving sales to new records. During the past fifty years,
+record label influence at radio has come under scrutiny time and time
+again, with repeated legal action brought against them over elaborate
+systems of kickbacks and pay-for-play payola scandals. The frequency
+of these allegations seems to indicate that this legal action has had
+little effect (Payola). The independent FM stations of the fifties
+slowly but surely were bought by larger media companies and segmented
+into relatively homogenized formats based around specific market
+demographics, reducing the diversity of music being broadcast (DiCola,
+Thomson).
 
-This era saw the music industry move through several listening technologies, although none of them were particularly disruptive to the established players.  The majors maintained their tight control over promotional channels, and adapted their distribution networks to accommodate new physical formats. CD packaging, for example, was adapted to accommodate the sales channel with the introduction of the much maligned “longbox.” By matching the height of the compact disc’s packaging with that of the LP, the new format could easily be stocked in the same shelving as the  latter (Knoppler 2009: 36).
+This era saw the music industry move through several listening
+technologies, although none of them were particularly disruptive to
+the established players.  The majors maintained their tight control
+over promotional channels, and adapted their distribution networks to
+accommodate new physical formats. CD packaging, for example, was
+adapted to accommodate the sales channel with the introduction of the
+much maligned “longbox.” By matching the height of the compact disc’s
+packaging with that of the LP, the new format could easily be stocked
+in the same shelving as the latter (Knoppler 2009: 36).
 
-One promotional channel worth mentioning that was developed during this period (although it hardly represents a new communications technology) is MTV. The late seventies and early 1980s saw a minor slump in otherwise steady industry growth; the disco bubble had popped and another cultural product had yet to fill the void. When MTV began broadcasting it quickly became apparent that music videos were extremely effective at driving new artist’s sales. This was particularly true with charismatic, telegenic artists like Michael Jackson and Madonna, who mastered the music video and became multimedia megastars. MTV quickly leveraged its utility into exclusivity contracts with the major labels, and the majors acquiesced to gain control over the emerging distribution and marketing system (Banks 1996: 67). In this way, MTV brought even further industry consolidation; the majors provided free content to the network and, in turn, vertically integrated MTV into their marketing infrastructure, as with radio.
+One promotional channel worth mentioning that was developed during
+this period (although it hardly represents a new communications
+technology) is MTV. The late seventies and early 1980s saw a minor
+slump in otherwise steady industry growth; the disco bubble had popped
+and another cultural product had yet to fill the void. When MTV began
+broadcasting it quickly became apparent that music videos were
+extremely effective at driving new artist’s sales. This was
+particularly true with charismatic, telegenic artists like Michael
+Jackson and Madonna, who mastered the music video and became
+multimedia megastars. MTV quickly leveraged its utility into
+exclusivity contracts with the major labels, and the majors acquiesced
+to gain control over the emerging distribution and marketing system
+(Banks 1996: 67). In this way, MTV brought even further industry
+consolidation; the majors provided free content to the network and, in
+turn, vertically integrated MTV into their marketing infrastructure,
+as with radio.
 
-Lastly, it should be noted that during the 1980s, the industry all but killed the single as a sales format. While singles were still promoted via radio and music video, majors effectively killed the single during the format change to CD–the production costs of a CD Single are nearly identical to the production costs of a full-length disc and the margins are extremely low–which left consumers with little choice but to purchase full length CDs if they wanted to own music from a hit single. In the long run, CDs were cheaper to produce but because of the fidelity improvement were priced higher than LPs. These increased margins, combined with tight control over marketing, promotional, and distribution channels, led the industry to megastars and record profits, culminating in 2000.
+Lastly, it should be noted that during the 1980s, the industry all but
+killed the single as a sales format. While singles were still promoted
+via radio and music video, majors effectively killed the single during
+the format change to CD–the production costs of a CD Single are nearly
+identical to the production costs of a full-length disc and the
+margins are extremely low–which left consumers with little choice but
+to purchase full length CDs if they wanted to own music from a hit
+single. In the long run, CDs were cheaper to produce but because of
+the fidelity improvement were priced higher than LPs. These increased
+margins, combined with tight control over marketing, promotional, and
+distribution channels, led the industry to megastars and record
+profits, culminating in 2000.
 
-Conclusion
+## Conclusion
 
-The recorded music business has seen several major disruptions during its existence. These disruptions have largely been due to advances in distribution technology, although they have almost always been accompanied by enabled by legal and social conditions. In the examined cases we see several emergent patterns:
+The recorded music business has seen several major disruptions during
+its existence. These disruptions have largely been due to advances in
+distribution technology, although they have almost always been
+accompanied by enabled by legal and social conditions. In the examined
+cases we see several emergent patterns:
 
-New listening mediums are most disruptive when the new technology also is able to undermine existing distribution and listening paradigms: phonographs were a categorically different listening experience than sheet music; radio sidestepped the distribution system of phonographs completely, providing free music on a massive scale; and the combination of vinyl records, new recording technology, and FM radio allowed the independents of the 1950s to build a parallel promotion and distribution system.
-Established interests generally have paid little notice to disruptive technologies until it’s too late, attempting to maintain control by keeping the market in their tightly controlled, existent distribution systems via legal means.
-The new mediums and distribution channels are eventually mastered. This generally happens by way of some dominant new player absorbing existing businesses or an established player absorbing purveyors of the new technologies. The initial periods of dispersion are followed by mergers and consolidation leading to a new marketplace with a few players maintaining control over the new distribution systems.
-It is in this context that we will cast our eye to the current disruptions in music distribution and attempt to identify how these patterns have played out in the digital age. Most importantly, we need to identify the unique aspects of our current age; what, if anything, could cause digital distribution to play out any differently?
+New listening mediums are most disruptive when the new technology also
+is able to undermine existing distribution and listening paradigms:
+phonographs were a categorically different listening experience than
+sheet music; radio sidestepped the distribution system of phonographs
+completely, providing free music on a massive scale; and the
+combination of vinyl records, new recording technology, and FM radio
+allowed the independents of the 1950s to build a parallel promotion
+and distribution system.
 
-References
+Established interests generally have paid little notice to disruptive
+technologies until it’s too late, attempting to maintain control by
+keeping the market in their tightly controlled, existent distribution
+systems via legal means.
+
+The new mediums and distribution channels are eventually
+mastered. This generally happens by way of some dominant new player
+absorbing existing businesses or an established player absorbing
+purveyors of the new technologies. The initial periods of dispersion
+are followed by mergers and consolidation leading to a new marketplace
+with a few players maintaining control over the new distribution
+systems.
+
+It is in this context that we will cast our eye to the current
+disruptions in music distribution and attempt to identify how these
+patterns have played out in the digital age. Most importantly, we need
+to identify the unique aspects of our current age; what, if anything,
+could cause digital distribution to play out any differently?
+
+## References
 
 Alexander, P. (1994). New Technology and Market Structure. Journal of Cultural Economics. 9, 113-123. Retrieved February 14, 2010 from http://www.peterjalexander.com/images/New_Technology_and_Market_Structure.pdf
 
